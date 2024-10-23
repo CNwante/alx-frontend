@@ -54,8 +54,8 @@ a {
 }
 
 .section-header {
-  font-family: var(--font-family-title);
   text-align: var(--section-header-align);
+  font-family: var(--font-family-title);
 }
 
 .section-tagline  {
