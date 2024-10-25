@@ -96,7 +96,6 @@ a[href]:active {
 
 .section {
   padding: var(--section-padding);
-  clear: left;
 }
 
 .section-header {
@@ -107,10 +106,9 @@ a[href]:active {
 
 .section-body {
   padding: var(--section-body-padding);
-
 }
 
-ul .row {
+.row {
   margin: 0;
   padding: 0;
   list-style: none;
