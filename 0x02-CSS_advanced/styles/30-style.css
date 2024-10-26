@@ -179,7 +179,7 @@ a[href]:active {
   overflow: hidden;
 }
 
-.card-work .card-image   {
+.card-work .card-image img {
   height: 30rem;
   width: 100%;
   object-fit: cover;
@@ -195,7 +195,7 @@ a[href]:active {
 }
 
 .card-work:hover .card-inner{
-  background: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .card-work .card-title {
