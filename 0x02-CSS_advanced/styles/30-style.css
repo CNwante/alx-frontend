@@ -174,7 +174,7 @@ a[href]:active {
   text-decoration: none;
 }
 
-.card-outer {
+.card-work .card-outer {
   position: relative;
   overflow: hidden;
 }
