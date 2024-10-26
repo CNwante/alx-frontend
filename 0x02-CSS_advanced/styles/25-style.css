@@ -44,7 +44,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
   --button-display: inline-block;
   --button-padding: 1.5rem 3rem;
   --button-border: 0.2rem solid var(--color-primary);
-  --button-color: color-black;
+  --button-color: var(--color-black);
   --button-text-decoration: none;
   --button-font-size: var(--font-size-large);
   --button-hover-color: var(--color-white);
@@ -122,7 +122,7 @@ a[href]:active {
 [data-section-theme="dark"] {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
-  --button-color: var(--color-white)
+  --button-color: var(--color-white);
   background-color: var(--color-black);
 }
 
